@@ -115,8 +115,9 @@ body {
 /*--- Hero---*/
 .hero {
   background-color: #8198a0;
-  padding: 2rem 305px;
+  padding: 4rem 310px;
   align-content: flex-end;
+  width: 100%;
 }
 .hero p {
   display: inline;
